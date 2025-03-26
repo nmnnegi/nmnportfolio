@@ -29,9 +29,7 @@ const Footer = () => {
           twitter
         </Link>
       </div>
-      <div className="max-sm:hidden">
-        <p>Made by shawn.</p>
-      </div>
+      
     </footer>
   );
 };

@@ -3,80 +3,74 @@
 
 export const theme = "#ff0000" // red
 
-export const name = "NAME";
+export const name = "Naman";
 
 export const aboutMe =
-  "Lorem ipsum dolor sit amet consectetur adipisicing elit. Reiciendis omnis at temporibus cupiditate natus quam rerum, quisquam fugit in error. Lorem ipsum dolor sit amet.";
+  "Tech enthusiast with experience in software and AI/ML. Skilled in building scalable applications and exploring modern technologies.";
 
 export const education1 = {
-  name: "Lorem ipsum dolor sit amet.",
-  branch: "Lorem ipsum dolor sit amet.",
-  year: "20XX - 20XX",
+  name: "ABES Engineering College, India",
+  branch: "CSE (AIML)",
+  year: "2022 - 2026",
 };
 
 export const education2 = {
-  name: "Lorem ipsum dolor sit amet.",
-  branch: "Lorem ipsum dolor sit amet.",
-  year: "20XX - 20XX",
+  name: "BBPS Noida, India",
+  branch: "CBSE (Class XII)",
+  year: "2021 - 2022",
 };
 
 export const experience = {
-  name: "Lorem ipsum dolor sit amet.",
-  moreInfo: "Lorem ipsum dolor sit amet.",
-  year: "Month 20XX - Month 20XX",
+  name: "SkyAnchor | Intern/Freelancer",
+  moreInfo: "Developed a company website to boost online presence and improve navigation.",
+  year: "Jan 2025 - Feb 2025",
 };
 
 export const projects = [
   {
-    name: "Project Name",
-    description: "Stack: reactjs, tailwindcss, etc",
-
-    href: "/",
+    name: "CineSync",
+    description: "Stack: ReactJS, Tailwind CSS, React Router, React Slick",
+    href: "https://cine-sync-amber.vercel.app/",
     cta: "Learn more",
     background: "/images/wall4.jpg",
     className:
-      "md:col-start-1 md:col-end-4 md:row-start-3 md:row-end-5 col-start-2 col-end-3 row-start-1 row-end-4 ",
+      "md:col-start-1 md:col-end-4 md:row-start-3 md:row-end-5 col-start-2 col-end-3 row-start-1 row-end-4",
   },
   {
-    name: "Project Name",
-    description: "Stack: reactjs, tailwindcss, etc",
-
-    href: "/",
+    name: "Mockify",
+    description: "Stack: ReactJS, Firebase, OpenAI API, LangChain",
+    href: "https://mockify-ten.vercel.app/",
     cta: "Learn more",
     background: "/images/gg.jpg",
     className:
       "md:row-start-1 md:row-end-3 md:col-start-3 md:col-end-5 col-start-1 col-end-2 row-start-1 row-end-3",
   },
   {
-    name: "Project Name",
-    description: "Stack: reactjs, tailwindcss, etc",
-
-    href: "/",
+    name: "CodeCraft",
+    description: "Stack: JavaScript, HTML, CSS",
+    href: "https://code-craft-sooty-delta.vercel.app/",
     cta: "Learn more",
     background: "/images/gg4.jpg",
     className:
-      "md:col-start-1 md:col-end-3 md:row-start-1 md:row-end-2  col-start-1 col-end-3 row-start-5 row-end-6 ",
+      "md:col-start-1 md:col-end-3 md:row-start-1 md:row-end-2 col-start-1 col-end-3 row-start-5 row-end-6",
   },
   {
-    name: "Project Name",
-    description: "Stack: reactjs, tailwindcss, etc",
-
-    href: "/",
+    name: "Amazon Clone",
+    description: "Stack: HTML, CSS, JavaScript",
+    href: "https://nmnnegi.github.io/amazon-clone/",
     cta: "Learn more",
     background: "/images/wall.jpg",
-
     className:
       "md:col-start-4 md:col-end-5 md:row-start-3 md:row-end-5 col-start-1 col-end-3 row-start-4 row-end-5",
   },
   {
-    name: "Project Name",
-    description: "Stack: reactjs, tailwindcss, etc",
-
-    href: "/",
+    name: "SkyAnchor",
+    description: "Stack: HTML, Bootstrap, SASS, JavaScript",
+    href: "https://www.skyanchors.com/",
     cta: "Learn more",
     background: "/images/wall5.jpg",
     className:
-      " md:col-start-1 md:col-end-3 md:row-start-2 md:row-end-3  col-start-1 col-end-2 row-start-3 row-end-3 ",
+      "md:col-start-1 md:col-end-3 md:row-start-2 md:row-end-3 col-start-1 col-end-2 row-start-3 row-end-3",
   },
 ];
 
@@ -94,22 +88,12 @@ export const skills = [
     title: "Npm",
     src: "/icons/3.svg",
   },
-  {
-    title: "Nextjs",
-    src: "/icons/4.svg",
-  },
-  {
-    title: "Appwrite",
-    src: "/icons/5.svg",
-  },
+  
   {
     title: "Expressjs",
     src: "/icons/6.svg",
   },
-  {
-    title: "MongoDB",
-    src: "/icons/7.svg",
-  },
+ 
   {
     title: "Vercel",
     src: "/icons/8.svg",
@@ -158,7 +142,7 @@ export const skills = [
 
 
 export const socials = {
-  github: 'https://github.com/zzzzshawn',
-  twitter: 'https://x.com/zzzzshawn'
+  github: 'https://github.com/nmnnegi',
+  twitter: 'https://x.com/im_NamanN'
 }
 
